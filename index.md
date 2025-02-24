@@ -1,11 +1,8 @@
 ---
-title: Latest reports from the Gerbils
+title: Welcome to Gerbidigm
 ---
 
-# Welcome to the Homepage.
-
 Need some content to cram into this spot.
-
 
 ## What we do
 
